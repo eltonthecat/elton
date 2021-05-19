@@ -16,3 +16,12 @@ a {
   color: inherit; 
   text-decoration: inherit;
 } 
+img {
+  max-width: 100%;
+  height: auto;
+}
+html {
+  background-image: url(eggton.jpeg);
+  background-repeat: repeat; 
+  background-size: 50vw;
+}
